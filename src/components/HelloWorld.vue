@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>Hello from another contributor</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -43,6 +44,9 @@ export default {
 <style scoped>
 h3 {
   margin: 40px 0 0;
+}
+h2 {
+  color: green;
 }
 ul {
   list-style-type: none;
