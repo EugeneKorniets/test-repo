@@ -46,7 +46,7 @@ h3 {
   margin: 40px 0 0;
 }
 h2 {
-  color: green;
+  color: lawngreen;
 }
 ul {
   list-style-type: none;
